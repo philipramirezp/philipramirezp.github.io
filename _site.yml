@@ -1,6 +1,6 @@
 navbar: 
-  title: Title
+  title: Home
   left:
-  - text: Main page that links to files
+  - text: CV
     href: content.html
 output_dir: "."

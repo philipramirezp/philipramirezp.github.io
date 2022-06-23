@@ -4,3 +4,6 @@ output: html_document
 ---
 
 This site will be available soon
+
+© 2022 GitHub, Inc.
+Terms

@@ -1,6 +1,8 @@
-navbar: 
-  title: Home
-  left:
+# Navegation bar
+navbar:
+  - text: Home
+    icon: fa-home
+    href: index.html
   - text: CV
-    href: content.html
+    href: https://philipramirezp.github.io/cv/CV_PhilipRamirez.pdf
 output_dir: "."

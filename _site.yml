@@ -1,5 +1,6 @@
 # Navegation bar
 navbar:
+  right:
   - text: Home
     icon: fa-home
     href: index.html

@@ -3,7 +3,38 @@ title: "Philip Ramírez"
 output: html_document
 ---
 
-This site will be available soon
+### About me
 
-© 2022 GitHub, Inc.
-Terms
+I am student of [Economics undergraduate at Universidad de Los Andes](https://economia.uniandes.edu.co/programas/pregrado-en-economia). In my work, I constantly use programming languages such as Statistical programming in [RStudio](https://www.rstudio.com/products/rstudio/download/) and [Stata](https://www.stata.com/).
+
+### Research interests
+My primary interests are Macroeconomics, International Economics, and Monetary Policy. I am also interested in Statistical Programming, Big Data, and Applied Mathematics.
+
+<br>
+
+You can find my [CV here](https://philipramirezp.github.io/cv/CV_PhilipRamirez.pdf)
+
+<br>
+
+If you want to talk to me you can make an appointment [here](https://calendly.com/philipramirezp).
+
+<br>
+
+### Skills
+Available soon
+
+<br>
+<br>
+<br>
+
+### Contact Info:
+
+
+
+<i class="fa fa-envelope"></i> p.ramirezp (at) uniandes.edu.co <br>
+<i class="fa fa-envelope"></i> mateo21569 (at) gmail.com
+
+
+
+<br>
+<br>

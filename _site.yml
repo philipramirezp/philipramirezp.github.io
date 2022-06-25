@@ -6,4 +6,6 @@ navbar:
     href: index.html
   - text: CV
     href: https://philipramirezp.github.io/cv/CV_PhilipRamirez.pdf
+  - text: Blog
+    href: blog.html
 output_dir: "."

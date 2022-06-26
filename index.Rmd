@@ -5,7 +5,7 @@ output: html_document
 
 ### About me
 
-I am student of [Economics undergraduate at Universidad de Los Andes](https://economia.uniandes.edu.co/programas/pregrado-en-economia). In my work, I constantly use programming languages such as Statistical programming in [RStudio](https://www.rstudio.com/products/rstudio/download/) and [Stata](https://www.stata.com/).
+I am student of [Economics undergraduate at Universidad de Los Andes](https://economia.uniandes.edu.co/programas/pregrado-en-economia). In my work, I constantly use programming languages such as Statistical programming in [R](https://www.r-project.org/) and [Stata](https://www.stata.com/).
 
 ### Research interests
 My primary interests are Macroeconomics, International Economics, and Monetary Policy. I am also interested in Statistical Programming, Big Data, and Applied Mathematics.
@@ -21,8 +21,30 @@ If you want to talk to me you can make an appointment [here](https://calendly.co
 <br>
 
 ### Skills
-Available soon
+<p>  </p>
 
+<div class="row featurette">
+ 
+ <!--- Logo R --->
+ <div class="col-12 col-sm-4">
+   <div class="featurette-icon"><img align=center src="./images/Rlogo.png" width=100" height="100"></div>
+   <h6 align=left style="color:black;"> &#160; &#160; &#160; &#160; Advanced </h6>
+ </div>
+ 
+ <!--- Logo Stata --->
+ <div class="col-12 col-sm-4">
+   <div class="featurette-icon"><img align=center src="./images/stata-logo.png" width=100" height="100"></div>
+   <h6 align=left style="color:black;"> &#160; &#160; &#160; &#160; Advanced </h6>
+ </div>
+
+  <!--- Logo Python --->
+ <div class="col-12 col-sm-4">
+   <div class="featurette-icon"><img src="./images/Python-logo.png" width=100" height="100"></div>
+   <h6 align=left style="color:black;"> &#160; &#160; &#160; Basic </h6>
+ </div>
+ 
+
+</div>
 <br>
 <br>
 <br>

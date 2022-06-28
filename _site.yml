@@ -8,7 +8,7 @@ navbar:
     href: https://philipramirezp.github.io/cv/CV_PhilipRamirez.pdf
   - text: Blog
     href: blog.html
-
+outputdir: "."
 # Theme https://bookdown.org/yihui/rmarkdown/html-document.html
 output:
       html_document:

@@ -1,8 +1,8 @@
 ---
-title: "Philip Ramírez"
+pagetitle : Philip Ramírez
 output: html_document
 ---
-<br>  </br> <!--- Agrega lineas en blanco --->
+<br> <!--- Agrega lineas en blanco --->
 
 <!------------- Panel de la izquierda ------------->
 <div class="col-sm-4">

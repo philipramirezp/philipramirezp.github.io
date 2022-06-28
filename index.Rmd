@@ -39,7 +39,7 @@ Economics, undergraduate student at Universidad de los Andes, interested in Macr
 
 ### About me
 
-I am student of [Economics undergraduate program at Universidad de Los Andes](https://economia.uniandes.edu.co/programas/pregrado-en-economia). In my work, I constantly use programming languages such as Statistical programming in [R](https://www.r-project.org/) and [Stata](https://www.stata.com/).
+I am student of [Economics undergraduate program at Universidad de Los Andes](https://economia.uniandes.edu.co/programas/pregrado-en-economia). In my work, I constantly use Statistical Programming languages in [R](https://www.r-project.org/) and [Stata](https://www.stata.com/).
 
 ### Research interests
 My primary interests are Macroeconomics, International Economics, and Monetary Policy. I am also interested in Statistical Programming, Big Data, and Applied Mathematics.

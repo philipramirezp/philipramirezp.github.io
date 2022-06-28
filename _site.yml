@@ -9,11 +9,3 @@ navbar:
   - text: Blog
     href: blog.html
 outputdir: "."
-# Theme https://bookdown.org/yihui/rmarkdown/html-document.html
-output:
-      html_document:
-                    theme: cerulean
-                    mathjax: "http://example.com/MathJax.js"
-                    highlight: haddock
-                    css: css/style.css
-# Correr esto en la consola despues de cada cambio rmarkdown::render_site()

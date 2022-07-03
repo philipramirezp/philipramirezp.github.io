@@ -3,6 +3,7 @@ title: "Journal Article"
 output: html_document
 ---
 ### A debate on regulation and energy transition in Colombia (in Spanish)
+#### December 16, 2021
 **JEL:** O32 *Management of Technological Innovation and R&D.*
 
 **Palabras clave:** Crecimiento, Transición Energética, Medio Ambiente y Cambio Climático.

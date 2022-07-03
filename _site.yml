@@ -8,4 +8,4 @@ navbar:
     href: https://philipramirezp.github.io/cv/CV_PhilipRamirez.pdf
   - text: Blog
     href: blog.html
-outputdir: "."
+output_dir: "."

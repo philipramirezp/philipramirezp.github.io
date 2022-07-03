@@ -98,4 +98,4 @@ If you want to talk to me you can make an appointment [here](https://calendly.co
 <!-- Tel -->
 <!-- <img alt="Qries" src="./images/tel.png" width=30" height="30"> (+571) 3394949 Ext: 2430 </img> -->
 
-</div> <!--- FIn del panel de la derecha --->
+</div> <!--- Fin del panel de la derecha --->

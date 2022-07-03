@@ -1,4 +1,6 @@
 # Navegation bar
+name: "my-website"
+output_dir: "."
 navbar:
   right:
   - text: Home
@@ -8,4 +10,10 @@ navbar:
     href: https://philipramirezp.github.io/cv/CV_PhilipRamirez.pdf
   - text: Blog
     href: blog.html
-output_dir: "."
+output:
+  html_document:
+    theme: cosmo
+    highlight: textmate
+    include:
+      after_body: footer.html
+    css: styles.css

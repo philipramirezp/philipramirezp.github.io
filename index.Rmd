@@ -10,7 +10,7 @@ output: html_document
 <!-- Foto completa -->
 <img src="./images/profile1.png" class="center" alt="drawing" width="240" height="250xº"/>
 
-### Philip Ramírez
+### **Philip Ramírez**
 Economics, undergraduate student at [Universidad de los Andes](https://uniandes.edu.co/), interested in Macroeconomics and Monetary Policy.
 
 <!-- Location -->
@@ -37,11 +37,11 @@ Economics, undergraduate student at [Universidad de los Andes](https://uniandes.
 
 <br>  </br> <!--- Agrega lineas en blanco --->
 
-### About me
+### **About me**
 
 I am student of [Economics undergraduate program at Universidad de Los Andes](https://economia.uniandes.edu.co/programas/pregrado-en-economia). In my work, I constantly use Statistical Programming languages in [R](https://www.r-project.org/) and [Stata](https://www.stata.com/).
 
-### Research interests
+### **Research interests**
 My primary interests are Macroeconomics, International Economics, and Monetary Policy. I am also interested in Statistical Programming, Big Data, and Applied Mathematics.
 
 <br>
@@ -54,7 +54,7 @@ If you want to talk to me you can make an appointment [here](https://calendly.co
 
 <br>
 
-### Skills
+### **Skills**
 <p>  </p>
 
 <div class="row featurette">
@@ -94,7 +94,7 @@ If you want to talk to me you can make an appointment [here](https://calendly.co
 <br>
 <br>
 
-### Contact Info:
+### **Contact Info:**
 <!-- Correo -->
 <p style="color:black"><img alt="Qries" src="./images/correo.png" width=30" height="30"> p.ramirezp@uniandes.edu.co </img></p>
 

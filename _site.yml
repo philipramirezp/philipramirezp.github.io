@@ -12,8 +12,6 @@ navbar:
     href: publications.html
   - text: Blog
     href: blog.html
-  - text: Nugae
-    href: nugae.html
 output:
   html_document:
     theme: cosmo

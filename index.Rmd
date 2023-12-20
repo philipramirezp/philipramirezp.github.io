@@ -26,7 +26,7 @@ Economics, undergraduate student at [Universidad de los Andes](https://uniandes.
 <a href="https://www.linkedin.com/in/philipramirezp/" style="color:black;"> <img alt="Qries" src="./images/linkedin.png" width=30" height="30">  philipramirezp</a>
 
 <!-- Twitter -->
- <a href="https://twitter.com/philipramirezp" style="color:black;"> <img alt="Qries" src="./images/twitter.jpeg" width=30" height="30">  @philipramirezp</a> 
+ <a href="https://twitter.com/philipramirezp" style="color:black;"> <img alt="Qries" src="./images/X_icon_2.svg.png" width=30" height="30">  @philipramirezp</a> 
 
 </div>
 <!------------- Fin panel de la izquierda ------------->

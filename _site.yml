@@ -7,7 +7,7 @@ navbar:
     icon: fa-home
     href: index.html
   - text: CV
-    href: https://philipramirezp.github.io/cv/CV_Ramirez_Philip_1.pdf
+    href: https://philipramirezp.github.io/cv/CV_Ramirez_Philip.pdf
   - text: Publications
     href: publications.html
   - text: Blog

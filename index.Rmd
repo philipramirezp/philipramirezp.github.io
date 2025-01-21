@@ -112,7 +112,7 @@ If you want to talk to me you can make an appointment [here](https://calendly.co
  <div class="col-12 col-sm-4">
  <a href="https://www.microsoft.com/es-es/power-platform/products/power-automate">
    <div class="featurette-icon"><img align=center src="./images/PALogo.png" width=160" height="100"></div></a>
-   <h6 align=center style="color:black;"> &#160; &#160; &#160; Basic </h6>
+   <h6 align=left style="color:black;"> &#160; &#160; &#160; Basic </h6>
  </div>
 
   <!--- Logo TeX --->

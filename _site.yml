@@ -1,6 +1,7 @@
 # Navegation bar
 name: "my-website"
 output_dir: "."
+favicon: "./images/destello.png"
 navbar:
   right:
   - text: Home

@@ -141,7 +141,7 @@ If you want to talk to me you can make an appointment [here](https://calendly.co
 <!-- Location -->
 <a href="https://maps.app.goo.gl/oP7nkFyjngGzkJyS6" style="color:black;"> <img alt="Qries" src="./images/location.png" width=30" height="30">  Department of Economics, Universidad de los Andes, Bogotá, Colombia.</a>
 
-<p>Copyright &copy; `r format(Sys.Date(), "%Y")` Github. All rights reserved.</p>
+<p>Copyright &copy; `r format(Sys.Date(), "%Y")` Github. All rights reserved. Powered by  [Philip Ramírez](https://www.linkedin.com/in/philipramirezp/).</p>
 
 <!-- Tel -->
 <!-- <img alt="Qries" src="./images/tel.png" width=30" height="30"> (+571) 3394949 Ext: 2430 </img> -->

@@ -134,10 +134,6 @@ If you want to talk to me you can make an appointment [here](https://calendly.co
 <!-- Correo personal -->
 <p style="color:black"><img alt="Qries" src="./images/correo.png" width=30" height="30"> mateo21569@gmail.com </img></p>
 
-<!-- Whatsapp -->
-<a aria-label="Chat on WhatsApp" href="https://wa.me/573124137625?text=Hola%20Philip!"><img alt="Chat on WhatsApp" src="./images/whatsapp.png" width=200" height="42.32"/>
-<a />
-
 <!-- Location -->
 <a href="https://maps.app.goo.gl/oP7nkFyjngGzkJyS6" style="color:black;"> <img alt="Qries" src="./images/location.png" width=30" height="30">  Department of Economics, Universidad de los Andes, Bogotá, Colombia.</a>
 
@@ -147,3 +143,34 @@ If you want to talk to me you can make an appointment [here](https://calendly.co
 <!-- <img alt="Qries" src="./images/tel.png" width=30" height="30"> (+571) 3394949 Ext: 2430 </img> -->
 
 </div> <!--- Fin del panel de la derecha --->
+
+<!-- Ícono flotante de WhatsApp -->
+<style>
+  .whatsapp-float {
+      position: fixed;
+      bottom: 20px;
+      right: 20px;
+      background-color: #25D366;
+      width: 60px;
+      height: 60px;
+      border-radius: 50%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      box-shadow: 2px 2px 5px rgba(0,0,0,0.3);
+      transition: background 0.3s;
+  }
+  
+  .whatsapp-float:hover {
+      background-color: #1ebe5d;
+  }
+
+  .whatsapp-float img {
+      width: 35px;
+      height: 35px;
+  }
+</style>
+
+<a href="https://wa.me/573124137625?text=Hola%20Philip!" class="whatsapp-float" target="_blank">
+  <img src="./images/WhatsApp_icon.png" alt="WhatsApp">
+</a>

@@ -11,7 +11,7 @@ output: html_document
 <img src="./images/profile1.png" class="center" alt="drawing" width="240" height="250xº"/>
 
 ### **Philip Ramírez**
-Economics, undergraduate student at [Universidad de los Andes](https://uniandes.edu.co/), interested in Macroeconomics and Monetary Policy.
+Economics, undergraduate student at <a href="https://uniandes.edu.co/" style="color:#0000FF;">Universidad de los Andes</a>, interested in Macroeconomics and Monetary Policy.
 
 <!-- Location -->
 <a href="https://www.google.com/maps/place/Bogotá/@4.6486259,-74.2478944,11z/data=!3m1!4b1!4m5!3m4!1s0x8e3f9bfd2da6cb29:0x239d635520a33914!8m2!3d4.7109886!4d-74.072092" style="color:black;"> <img alt="Qries" src="./images/location.png" width=30" height="30">  Bogotá, Colombia.</a>
@@ -39,18 +39,18 @@ Economics, undergraduate student at [Universidad de los Andes](https://uniandes.
 
 ### **About me**
 
-I am student of [Economics undergraduate program at Universidad de Los Andes](https://economia.uniandes.edu.co/programas/pregrado-en-economia). In my work, I constantly use Statistical Programming languages in [R](https://www.r-project.org/) and [Stata](https://www.stata.com/).
+I am student of <a href="https://economia.uniandes.edu.co/programas/pregrado-en-economia" style="color:#0000FF;">Economics undergraduate program at Universidad de Los Andes</a>. In my work, I constantly use Statistical Programming languages in <a href="https://www.r-project.org/" style="color:#0000FF;">R</a> and <a href="https://www.stata.com/" style="color:#0000FF;">Stata</a>.
 
 ### **Research interests**
 My primary interests are Macroeconomics, International Economics, and Monetary Policy. I am also interested in Statistical Programming, Big Data, and Applied Mathematics.
 
 <br>
 
-You can find my [CV here](https://philipramirezp.github.io/cv/CV_PhilipRamirez.pdf).
+You can find my <a href="https://philipramirezp.github.io/cv/CV_PhilipRamirez.pdf" style="color:#0000FF;">CV here</a>.
 
 <br>
 
-If you want to talk to me you can make an appointment [here](https://calendly.com/philipramirezp).
+If you want to talk to me you can make an appointment <a href="https://calendly.com/philipramirezp" style="color:#0000FF;">click here</a>.
 
 <br>
 
@@ -61,65 +61,74 @@ If you want to talk to me you can make an appointment [here](https://calendly.co
  
  <!--- Logo R --->
  <div class="col-12 col-sm-4">
- <a href="https://www.r-project.org/">
-   <div class="featurette-icon"><img align=center src="./images/Rlogo.png" width=100" height="100"></div></a>
-   <h6 align=left style="color:black;"> &#160; &#160; &#160; &#160; Advanced </h6>
+ <a href="https://www.r-project.org/" aria-label="About R">
+   <div class="featurette-icon">
+   <img align=center src="./images/Rlogo.png" alt="R Logo" width=100" height="100"></div></a>
+   <h4 align=left style="color:black;"> &#160; &#160; &#160; &#160; Advanced </h4>
  </div>
  
  <!--- Logo Stata --->
 <div class="col-12 col-sm-4">
-<a href="https://www.stata.com/">
-  <div class="featurette-icon"><img align=center src="./images/stata-logo.png" width=100" height="100"></div></a>
-   <h6 align=left style="color:black;"> &#160; &#160; &#160; &#160; Advanced </h6>
+<a href="https://www.stata.com/" aria-label="About Stata">
+  <div class="featurette-icon">
+  <img align=center src="./images/stata-logo.png" alt="Stata Logo" width=100" height="100"></div></a>
+   <h4 align=left style="color:black;"> &#160; &#160; &#160; &#160; Advanced </h4>
  </div>
  
 <!--- Power BI --->
 <div class="col-12 col-sm-4">
-<a href="https://www.microsoft.com/es-es/power-platform/products/power-bi">
-  <div class="featurette-icon"><img align=center src="./images/Microsoft-Power-BI-Logo.png" width=100" height="100"></div></a>
-   <h6 align=left style="color:black;"> &#160; &#160; &#160; &#160; Advanced </h6>
+<a href="https://www.microsoft.com/es-es/power-platform/products/power-bi" aria-label="About Power BI">
+  <div class="featurette-icon">
+  <img align=center src="./images/Microsoft-Power-BI-Logo.png" alt="Power BI Logo" width=100" height="100"></div></a>
+   <h4 align=left style="color:black;"> &#160; &#160; &#160; &#160; Advanced </h4>
  </div>
 
 <!--- Logo SQL --->
   <div class="col-12 col-sm-4">
-  <a href="https://es.wikipedia.org/wiki/SQL">
-   <div class="featurette-icon"><img align=center src="./images/sql_logo.png" width=100" height="100"></div></a>
-   <h6 align=left style="color:black;"> &#160; &#160; &#160; Intermediate </h6>
+  <a href="https://es.wikipedia.org/wiki/SQL" aria-label="About SQL">
+   <div class="featurette-icon">
+   <img align=center src="./images/sql_logo.png" alt="SQL Logo" width=100" height="100"></div></a>
+   <h4 align=left style="color:black;"> &#160; &#160; &#160; Intermediate </h4>
  </div>
  
 <!-- Logo Excel -->
   <div class="col-12 col-sm-4">
-  <a href="https://www.microsoft.com/es-co/microsoft-365/excel">
-   <div class="featurette-icon"><img align=center src="./images/Microsoft-Excel-Logo.png" width=100" height="100"></div></a>
-   <h6 align=left style="color:black;"> &#160; &#160; &#160; Intermediate </h6>
+  <a href="https://www.microsoft.com/es-co/microsoft-365/excel" aria-label="About Excel">
+   <div class="featurette-icon">
+   <img align=center src="./images/Microsoft-Excel-Logo.png" alt="Excel Logo" width=100" height="100"></div></a>
+   <h4 align=left style="color:black;"> &#160; &#160; &#160; Intermediate </h4>
  </div>
 
-<!-- Logo Excel -->
+<!-- Logo Google AppSheet -->
   <div class="col-12 col-sm-4">
-  <a href="https://about.appsheet.com/home/">
-   <div class="featurette-icon"><img align=center src="./images/appsheet.png" width=100" height="100"></div></a>
-   <h6 align=left style="color:black;"> &#160; &#160; &#160; Intermediate </h6>
+  <a href="https://about.appsheet.com/home/" aria-label="About AppSheet">
+   <div class="featurette-icon">
+   <img align=center src="./images/appsheet.png" alt="AppSheet Logo" width=100" height="100"></div></a>
+   <h4 align=left style="color:black;"> &#160; &#160; &#160; Intermediate </h4>
  </div>
 
   <!--- Logo Python --->
  <div class="col-12 col-sm-4">
- <a href="https://www.python.org/">
-   <div class="featurette-icon"><img align=center src="./images/Python-logo.png" width=100" height="100"></div></a>
-   <h6 align=left style="color:black;"> &#160; &#160; &#160; Basic </h6>
+ <a href="https://www.python.org/" aria-label="About Python">
+   <div class="featurette-icon">
+   <img align=center src="./images/Python-logo.png" alt="Python Logo" width=100" height="100"></div></a>
+   <h4 align=left style="color:black;"> &#160; &#160; &#160; Basic </h4>
  </div>
  
 <!--- Logo Power Automate --->
  <div class="col-12 col-sm-4">
- <a href="https://www.microsoft.com/es-es/power-platform/products/power-automate">
-   <div class="featurette-icon"><img align=center src="./images/PALogo.png" width=160" height="100"></div></a>
-   <h6 align=left style="color:black;"> &#160; &#160; &#160; Basic </h6>
+ <a href="https://www.microsoft.com/es-es/power-platform/products/power-automate" aria-label="About Power Automate">
+   <div class="featurette-icon">
+   <img align=center src="./images/PALogo.png" alt="Power Automate Logo" width=160" height="100"></div></a>
+   <h4 align=left style="color:black;"> &#160; &#160; &#160; Basic </h4>
  </div>
 
   <!--- Logo TeX --->
   <div class="col-12 col-sm-4">
-  <a href="https://es.wikipedia.org/wiki/TeX">
-   <div class="featurette-icon"><img align=center src="./images/Latex_logo.png" width=100" height="100"></div></a>
-   <h6 align=left style="color:black;"> &#160; &#160; &#160; Basic </h6>
+  <a href="https://es.wikipedia.org/wiki/TeX" aria-label="About TeX">
+   <div class="featurette-icon">
+   <img align=center src="./images/Latex_logo.png" alt="TeX Logo" width=100" height="100"></div></a>
+   <h4 align=left style="color:black;"> &#160; &#160; &#160; Basic </h4>
  </div>
 
 </div>
@@ -129,15 +138,22 @@ If you want to talk to me you can make an appointment [here](https://calendly.co
 
 ### **Contact Info:**
 <!-- Correo institucional -->
-<p style="color:black"><img alt="Qries" src="./images/correo.png" width=30" height="30"> p.ramirezp@uniandes.edu.co </img></p>
+<p style="color:black">
+<img alt="Qries" src="./images/correo.png" width=30" height="30">
+<a href="mailto:p.ramirezp@uniandes.edu.co" style="color:#0000FF;">p.ramirezp@uniandes.edu.co</a>
+</img></p>
 
 <!-- Correo personal -->
-<p style="color:black"><img alt="Qries" src="./images/correo.png" width=30" height="30"> mateo21569@gmail.com </img></p>
+<p style="color:black">
+<img alt="Qries" src="./images/correo.png" width=30" height="30">
+<a href="mailto:mateo21569@gmail.com" style="color:#0000FF;">mateo21569@gmail.com</a>
+</img></p>
 
 <!-- Location -->
 <a href="https://maps.app.goo.gl/oP7nkFyjngGzkJyS6" style="color:black;"> <img alt="Qries" src="./images/location.png" width=30" height="30">  Department of Economics, Universidad de los Andes, Bogotá, Colombia.</a>
 
-<p>Copyright &copy; `r format(Sys.Date(), "%Y")` Github. All rights reserved. Powered by  [Philip Ramírez](https://www.linkedin.com/in/philipramirezp/).</p>
+<p>Copyright &copy; `r format(Sys.Date(), "%Y")` Github. All rights reserved. Powered by  <a href="https://www.linkedin.com/in/philipramirezp/" style="color:#0000FF;">Philip Ramírez</a>.
+</p>
 
 <!-- Tel -->
 <!-- <img alt="Qries" src="./images/tel.png" width=30" height="30"> (+571) 3394949 Ext: 2430 </img> -->

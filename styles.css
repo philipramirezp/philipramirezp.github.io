@@ -1,3 +1,6 @@
 blockquote {
   font-style: italic
 }
+h4{
+  font-size: 12px; /* Keeps the original size */
+}

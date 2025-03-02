@@ -2,6 +2,7 @@
 pagetitle : Philip Ramírez
 output: html_document
 ---
+<html lang="en">
 <br> <!--- Agrega lineas en blanco --->
 
 <!------------- Panel de la izquierda ------------->

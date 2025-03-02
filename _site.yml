@@ -21,5 +21,4 @@ output:
     css: styles.css
     includes:
      in_header: "header.html"
-
-lang: "en"
+     lang: "en"

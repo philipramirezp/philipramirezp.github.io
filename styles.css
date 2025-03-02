@@ -4,3 +4,9 @@ blockquote {
 h4{
   font-size: 12px; /* Keeps the original size */
 }
+a{
+  color: #0000FF; /* Color azul estándar */
+}
+.navbar-brand {
+  display: none !important;
+}

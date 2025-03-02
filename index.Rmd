@@ -11,7 +11,7 @@ output: html_document
 <img src="./images/profile1.png" class="center" alt="drawing" width="240" height="250xº"/>
 
 ### **Philip Ramírez**
-Economics, undergraduate student at <a href="https://uniandes.edu.co/" style="color:#0000FF;">Universidad de los Andes</a>, interested in Macroeconomics and Monetary Policy.
+Economics, undergraduate student at <a href="https://uniandes.edu.co/">Universidad de los Andes</a>, interested in Macroeconomics and Monetary Policy.
 
 <!-- Location -->
 <a href="https://www.google.com/maps/place/Bogotá/@4.6486259,-74.2478944,11z/data=!3m1!4b1!4m5!3m4!1s0x8e3f9bfd2da6cb29:0x239d635520a33914!8m2!3d4.7109886!4d-74.072092" style="color:black;"> <img alt="Qries" src="./images/location.png" width=30" height="30">  Bogotá, Colombia.</a>
@@ -39,18 +39,18 @@ Economics, undergraduate student at <a href="https://uniandes.edu.co/" style="co
 
 ### **About me**
 
-I am student of <a href="https://economia.uniandes.edu.co/programas/pregrado-en-economia" style="color:#0000FF;">Economics undergraduate program at Universidad de Los Andes</a>. In my work, I constantly use Statistical Programming languages in <a href="https://www.r-project.org/" style="color:#0000FF;">R</a> and <a href="https://www.stata.com/" style="color:#0000FF;">Stata</a>.
+I am student of <a href="https://economia.uniandes.edu.co/programas/pregrado-en-economia">Economics undergraduate program at Universidad de Los Andes</a>. In my work, I constantly use Statistical Programming languages in <a href="https://www.r-project.org/">R</a> and <a href="https://www.stata.com/">Stata</a>.
 
 ### **Research interests**
 My primary interests are Macroeconomics, International Economics, and Monetary Policy. I am also interested in Statistical Programming, Big Data, and Applied Mathematics.
 
 <br>
 
-You can find my <a href="https://philipramirezp.github.io/cv/CV_PhilipRamirez.pdf" style="color:#0000FF;">CV here</a>.
+You can find my <a href="https://philipramirezp.github.io/cv/CV_PhilipRamirez.pdf">CV here</a>.
 
 <br>
 
-If you want to talk to me you can make an appointment <a href="https://calendly.com/philipramirezp" style="color:#0000FF;">click here</a>.
+If you want to talk to me you can make an appointment <a href="https://calendly.com/philipramirezp" aria-label="Make an appointment here">click here</a>.
 
 <br>
 
@@ -140,19 +140,19 @@ If you want to talk to me you can make an appointment <a href="https://calendly.
 <!-- Correo institucional -->
 <p style="color:black">
 <img alt="Qries" src="./images/correo.png" width=30" height="30">
-<a href="mailto:p.ramirezp@uniandes.edu.co" style="color:#0000FF;">p.ramirezp@uniandes.edu.co</a>
+<a href="mailto:p.ramirezp@uniandes.edu.co">p.ramirezp@uniandes.edu.co</a>
 </img></p>
 
 <!-- Correo personal -->
 <p style="color:black">
 <img alt="Qries" src="./images/correo.png" width=30" height="30">
-<a href="mailto:mateo21569@gmail.com" style="color:#0000FF;">mateo21569@gmail.com</a>
+<a href="mailto:mateo21569@gmail.com">mateo21569@gmail.com</a>
 </img></p>
 
 <!-- Location -->
 <a href="https://maps.app.goo.gl/oP7nkFyjngGzkJyS6" style="color:black;"> <img alt="Qries" src="./images/location.png" width=30" height="30">  Department of Economics, Universidad de los Andes, Bogotá, Colombia.</a>
 
-<p>Copyright &copy; `r format(Sys.Date(), "%Y")` Github. All rights reserved. Powered by  <a href="https://www.linkedin.com/in/philipramirezp/" style="color:#0000FF;">Philip Ramírez</a>.
+<p>Copyright &copy; `r format(Sys.Date(), "%Y")` Github. All rights reserved. Powered by  <a href="https://www.linkedin.com/in/philipramirezp/">Philip Ramírez</a>.
 </p>
 
 <!-- Tel -->

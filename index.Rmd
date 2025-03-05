@@ -72,7 +72,7 @@ You can find my <a href="https://philipramirezp.github.io/cv/CV_PhilipRamirez.pd
 <div class="col-12 col-sm-4">
 <a href="https://www.stata.com/" aria-label="About Stata">
   <div class="featurette-icon">
-  <img align=center src="./images/stata-logo.png" alt="Stata Logo" width=190" height="100"></div></a>
+  <img align=center src="./images/stata-logo.png" alt="Stata Logo"></div></a>
    <h4 align=center style="color:black;"> &#160; &#160; &#160; &#160; Advanced </h4>
  </div>
  

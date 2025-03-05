@@ -9,13 +9,13 @@ output: html_document
 <div class="col-sm-4">
 
 <!-- Foto completa -->
-<img src="http://localhost:8888/unsafe/240x250/https%3A%2F%2Fphilipramirezp.github.io%2Fimages%2Fprofile1.png" class="center" alt="drawing" width="240" height="250xº"/>
+<img src="./images/profile1.png" class="center" alt="drawing" width="240" height="250xº"/>
 
 ### **Philip Ramírez**
 Economics, undergraduate student at <a href="https://uniandes.edu.co/">Universidad de los Andes</a>, interested in Macroeconomics and Monetary Policy.
 
 <!-- Location -->
-<a href="https://www.google.com/maps/place/Bogotá/@4.6486259,-74.2478944,11z/data=!3m1!4b1!4m5!3m4!1s0x8e3f9bfd2da6cb29:0x239d635520a33914!8m2!3d4.7109886!4d-74.072092" style="color:black;"> <img alt="Qries" src="http://localhost:8888/unsafe/30x30/https%3A%2F%2Fphilipramirezp.github.io%2Fimages%2Flocation.png" width=30" height="30">  Bogotá, Colombia.</a>
+<a href="https://www.google.com/maps/place/Bogotá/@4.6486259,-74.2478944,11z/data=!3m1!4b1!4m5!3m4!1s0x8e3f9bfd2da6cb29:0x239d635520a33914!8m2!3d4.7109886!4d-74.072092" style="color:black;"> <img alt="Qries" src="./images/location.png" width=30" height="30">  Bogotá, Colombia.</a>
 
 <!-- GitHub -->
 <a href="https://github.com/philipramirezp" style="color:black;"> <img alt="Qries" src="./images/github.png" width=30" height="30">  philipramirezp</a>
@@ -64,7 +64,7 @@ You can find my <a href="https://philipramirezp.github.io/cv/CV_PhilipRamirez.pd
  <div class="col-12 col-sm-4">
  <a href="https://www.r-project.org/" aria-label="About R">
    <div class="featurette-icon">
-   <img align=center src="http://localhost:8888/unsafe/100x100/https%3A%2F%2Fphilipramirezp.github.io%2Fimages%2FRlogo.png" alt="R Logo" width=100" height="100"></div></a>
+   <img align=center src="./images/Rlogo.png" alt="R Logo" width=100" height="100"></div></a>
    <h4 align=left style="color:black;"> &#160; &#160; &#160; &#160; Advanced </h4>
  </div>
  
@@ -72,7 +72,7 @@ You can find my <a href="https://philipramirezp.github.io/cv/CV_PhilipRamirez.pd
 <div class="col-12 col-sm-4">
 <a href="https://www.stata.com/" aria-label="About Stata">
   <div class="featurette-icon">
-  <img align=center src="http://localhost:8888/unsafe/190x100/https%3A%2F%2Fphilipramirezp.github.io%2Fimages%2Fstata-logo.png" alt="Stata Logo" width=100" height="100"></div></a>
+  <img align=center src="./images/stata-logo.png" alt="Stata Logo" width=100" height="100"></div></a>
    <h4 align=left style="color:black;"> &#160; &#160; &#160; &#160; Advanced </h4>
  </div>
  
@@ -88,7 +88,7 @@ You can find my <a href="https://philipramirezp.github.io/cv/CV_PhilipRamirez.pd
   <div class="col-12 col-sm-4">
   <a href="https://es.wikipedia.org/wiki/SQL" aria-label="About SQL">
    <div class="featurette-icon">
-   <img align=center src="http://localhost:8888/unsafe/100x100/https%3A%2F%2Fphilipramirezp.github.io%2Fimages%2Fsql_logo.png" alt="SQL Logo" width=100" height="100"></div></a>
+   <img align=center src="./images/sql_logo.png" alt="SQL Logo" width=100" height="100"></div></a>
    <h4 align=left style="color:black;"> &#160; &#160; &#160; Intermediate </h4>
  </div>
  
@@ -96,7 +96,7 @@ You can find my <a href="https://philipramirezp.github.io/cv/CV_PhilipRamirez.pd
   <div class="col-12 col-sm-4">
   <a href="https://www.microsoft.com/es-co/microsoft-365/excel" aria-label="About Excel">
    <div class="featurette-icon">
-   <img align=center src="http://localhost:8888/unsafe/100x100/https%3A%2F%2Fphilipramirezp.github.io%2Fimages%2FMicrosoft-Excel-Logo.png" alt="Excel Logo" width=100" height="100"></div></a>
+   <img align=center src="./images/Microsoft-Excel-Logo.png" alt="Excel Logo" width=100" height="100"></div></a>
    <h4 align=left style="color:black;"> &#160; &#160; &#160; Intermediate </h4>
  </div>
 
@@ -151,7 +151,7 @@ You can find my <a href="https://philipramirezp.github.io/cv/CV_PhilipRamirez.pd
 </img></p>
 
 <!-- Location -->
-<a href="https://maps.app.goo.gl/oP7nkFyjngGzkJyS6" style="color:black;"> <img alt="Qries" src="http://localhost:8888/unsafe/30x30/https%3A%2F%2Fphilipramirezp.github.io%2Fimages%2Flocation.png" width=30" height="30">  Department of Economics, Universidad de los Andes, Bogotá, Colombia.</a>
+<a href="https://maps.app.goo.gl/oP7nkFyjngGzkJyS6" style="color:black;"> <img alt="Qries" src="./images/location.png" width=30" height="30">  Department of Economics, Universidad de los Andes, Bogotá, Colombia.</a>
 
 <p>Copyright &copy; `r format(Sys.Date(), "%Y")` Github. All rights reserved. Powered by  <a href="https://www.linkedin.com/in/philipramirezp/">Philip Ramírez</a>.
 </p>

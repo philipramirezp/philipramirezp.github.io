@@ -1,4 +1,8 @@
 #############################################################################
+# en la terminal
+# pip install thumbor
+# thumbor
+
 library(base64enc)
 
 # Lista de logos
@@ -15,6 +19,7 @@ logos_finales <- sapply(logos, function(link) {
 
 # Mostrar resultados
 print(logos_finales)
+logos_finales[1]
 
 ###########################################################################
 # perfil
@@ -31,3 +36,11 @@ logos_union <- c(logos_finales,
                  perfil_final,
                  location_final)
 length(logos_union)
+
+
+
+
+thumbor_url <- "https://mi-servidor-thumbor.com/unsafe/30x30/"
+location <- "https://philipramirezp.github.io/images/location.png"
+encoded_url <- URLencode(location, reserved = TRUE)
+location_final <- paste0(thumbor_url, encoded_url)

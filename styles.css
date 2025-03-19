@@ -4,9 +4,13 @@ blockquote {
 h4{
   font-size: 12px; /* Keeps the original size */
 }
-a{
-  color: #0056b3; /* Color azul oscuro */
+a {
+  color: #003399; /* Color azul oscuro */
+  text-decoration: underline; /* Subrayado */
 }
-.navbar-brand {
+
+a:hover {
+  color: #ff6600; /* Color naranja brillante al pasar el cursor */
+}.navbar-brand {
   display: none !important;
 }

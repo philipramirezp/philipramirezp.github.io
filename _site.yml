@@ -18,6 +18,8 @@ output:
   html_document:
     theme: cosmo
     highlight: textmate
+    mathjax: null
+    self_contained: false
     css: styles.css
     includes:
      in_header: "header.html"

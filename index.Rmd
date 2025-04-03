@@ -9,7 +9,7 @@ output: html_document
 <div class="col-sm-4">
 
 <!-- Foto completa -->
-<img src="./images/profile1.png" class="center" alt="drawing" width="240" height="250xº"/>
+<img src="./images/profile1.webp" class="center" alt="drawing" width="240" height="250"/>
 
 ### **Philip Ramírez**
 Economics, undergraduate student at <a href="https://uniandes.edu.co/">Universidad de los Andes</a>, interested in Macroeconomics and Monetary Policy.
@@ -27,7 +27,7 @@ Economics, undergraduate student at <a href="https://uniandes.edu.co/">Universid
 <a href="https://www.linkedin.com/in/philipramirezp/" style="color:black;"> <img alt="Qries" src="./images/linkedin.png" width=30" height="30">  philipramirezp</a>
 
 <!-- Twitter -->
- <a href="https://x.com/philipramirezp" style="color:black;"> <img alt="Qries" src="./images/X_icon_2.svg.png" width=30" height="30">  philipramirezp</a> 
+ <a href="https://x.com/philipramirezp" style="color:black;"> <img alt="Qries" src="./images/X_icon_2.svg.webp" width=30" height="30">  philipramirezp</a> 
 
 </div>
 <!------------- Fin panel de la izquierda ------------->
@@ -112,7 +112,7 @@ You can find my <a href="https://philipramirezp.github.io/cv/CV_PhilipRamirez.pd
  <div class="col-12 col-sm-4">
  <a href="https://www.python.org/" aria-label="About Python">
    <div class="featurette-icon">
-   <img align=center src="./images/Python-logo.png" alt="Python Logo" width=100" height="100"></div></a>
+   <img align=center src="./images/Python-logo.webp" alt="Python Logo" width=100" height="100"></div></a>
    <h4 align=left style="color:black;"> &#160; &#160; &#160; Basic </h4>
  </div>
  
@@ -120,7 +120,7 @@ You can find my <a href="https://philipramirezp.github.io/cv/CV_PhilipRamirez.pd
  <div class="col-12 col-sm-4">
  <a href="https://www.microsoft.com/es-es/power-platform/products/power-automate" aria-label="About Power Automate">
    <div class="featurette-icon">
-   <img align=center src="./images/PALogo.png" alt="Power Automate Logo" width=160" height="100"></div></a>
+   <img align=center src="./images/PALogo.webp" alt="Power Automate Logo" width=160" height="100"></div></a>
    <h4 align=left style="color:black;"> &#160; &#160; &#160; Basic </h4>
  </div>
 
@@ -128,7 +128,7 @@ You can find my <a href="https://philipramirezp.github.io/cv/CV_PhilipRamirez.pd
   <div class="col-12 col-sm-4">
   <a href="https://es.wikipedia.org/wiki/TeX" aria-label="About TeX">
    <div class="featurette-icon">
-   <img align=center src="./images/Latex_logo.png" alt="TeX Logo" width=100" height="100"></div></a>
+   <img align=center src="./images/Latex_logo.webp" alt="TeX Logo" width=100" height="100"></div></a>
    <h4 align=left style="color:black;"> &#160; &#160; &#160; Basic </h4>
  </div>
 
@@ -189,5 +189,5 @@ You can find my <a href="https://philipramirezp.github.io/cv/CV_PhilipRamirez.pd
 </style>
 
 <a href="https://wa.me/573124137625?text=Hola%20Philip!" class="whatsapp-float" target="_blank">
-  <img src="./images/WhatsApp_icon.png" alt="WhatsApp">
+  <img src="./images/WhatsApp_icon.webp" alt="WhatsApp">
 </a>

@@ -9,7 +9,7 @@ output: html_document
 <div class="col-sm-4">
 
 <!-- Foto completa -->
-<img src="./images/profile1.webp" class="center" alt="drawing" width="240" height="250"/>
+<img src="./images/profile1.png" class="center" alt="drawing" width="240" height="250"/>
 
 ### **Philip Ramírez**
 Economics, undergraduate student at <a href="https://uniandes.edu.co/">Universidad de los Andes</a>, interested in Macroeconomics and Monetary Policy.

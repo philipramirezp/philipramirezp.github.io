@@ -9,10 +9,10 @@ output: html_document
 <div class="col-sm-4">
 
 <!-- Foto completa -->
-<img src="./images/profile1.png" class="center" alt="drawing" width="240" height="250"/>
+<img src="./images/profile1.png" class="center" alt="drawing" width="250" height="250"/>
 
 ### **Philip Ramírez**
-Economics, undergraduate student at <a href="https://uniandes.edu.co/">Universidad de los Andes</a>, interested in Macroeconomics and Monetary Policy.
+Economist at <a href="https://uniandes.edu.co/">Universidad de los Andes</a>, interested in Macroeconomics, Monetary Policy, Data Analytics, BI, and Macroeconomics.
 
 <!-- Location -->
 <a href="https://www.google.com/maps/place/Bogotá/@4.6486259,-74.2478944,11z/data=!3m1!4b1!4m5!3m4!1s0x8e3f9bfd2da6cb29:0x239d635520a33914!8m2!3d4.7109886!4d-74.072092" style="color:black;"> <img alt="Qries" src="./images/location.png" width=30" height="30">  Bogotá, Colombia.</a>
@@ -40,10 +40,10 @@ Economics, undergraduate student at <a href="https://uniandes.edu.co/">Universid
 
 ### **About me**
 
-I am student of <a href="https://economia.uniandes.edu.co/programas/pregrado-en-economia">Economics undergraduate program at Universidad de Los Andes</a>. In my work, I constantly use Statistical Programming languages in <a href="https://www.r-project.org/">R</a> and <a href="https://www.stata.com/">Stata</a>.
+I am <a href="https://economia.uniandes.edu.co/programas/pregrado-en-economia"> economist at the Universidad de los Andes</a>. In my work, I constantly use Statistical Programming languages in <a href="https://www.r-project.org/">R</a>, <a href="https://www.python.org/">Python</a>, and <a href="https://www.stata.com/">Stata</a>.
 
 ### **Research interests**
-My primary interests are Macroeconomics, International Economics, and Monetary Policy. I am also interested in Statistical Programming, Big Data, and Applied Mathematics.
+My primary interests are Macroeconomics, International Economics, and Monetary Policy. I am also interested in Statistical Programming, Machine Learning, Data Analytics, Big Data, and Applied Mathematics.
 
 <br>
 

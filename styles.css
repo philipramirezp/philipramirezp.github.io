@@ -14,3 +14,7 @@ a:hover {
 }.navbar-brand {
   display: none !important;
 }
+
+body {
+  text-align: justify;
+}
